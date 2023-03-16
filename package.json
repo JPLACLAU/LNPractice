@@ -1,0 +1,8 @@
+{
+  "name": "LNPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JPLACLAU/LNPractice",
+  "author": "JPLACLAU <laclaujeanpaul@gmail.com>",
+  "license": "MIT"
+}
